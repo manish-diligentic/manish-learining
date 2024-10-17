@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Valeria</h1>
-<h3 align="center">A passionate Software Developer and Teach Lead </h3>
+<h1 align="center">Hi 👋, I'm Manish</h1>
+<h3 align="center">A passionate Software Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/valtorydev" target="blank"><img src="https://img.shields.io/twitter/follow/valtorydev?logo=twitter&style=for-the-badge" alt="valtorydev" /></a> </p>
 
